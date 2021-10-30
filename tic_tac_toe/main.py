@@ -15,8 +15,8 @@ async def close_db_connection():
 
 
 app = FastAPI(
-    title='Tic Tac Toe api',
-    description='An api to play tic tac toe game',
+    title='Tic-Tac-Toe api',
+    description='An api to play tic-tac-toe game',
     version='0.1.0',
     licence_info={
         'name': 'MIT',
