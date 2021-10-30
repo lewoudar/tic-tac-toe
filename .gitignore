@@ -2,3 +2,5 @@
 .pytest_cache
 .python-version
 db.sqlite
+.coverage
+htmlcov
